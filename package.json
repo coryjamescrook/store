@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/coryjamescrook/store/issues"
   },
-  "homepage": "https://github.com/coryjamescrook/store#readme"
+  "homepage": "https://github.com/coryjamescrook/store#readme",
+  "dependencies": {
+    "@coryjamescrook/singleton": "^1.1.1"
+  }
 }

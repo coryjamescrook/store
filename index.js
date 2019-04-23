@@ -1,4 +1,4 @@
-const Singleton = require('./index')
+const Singleton = require('@coryjamescrook/singleton')
 
 class Store extends Singleton {
   constructor(initialState = {}, enableLogging = false) {
