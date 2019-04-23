@@ -1,5 +1,5 @@
 # store
-A simple design pattern for a singleton class in javascript.
+A basic state management utility for javascript applications.
 
 #### To use
 Simply install:
