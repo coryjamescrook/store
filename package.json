@@ -1,6 +1,6 @@
 {
   "name": "@coryjamescrook/store",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A basic state management utility",
   "main": "index.js",
   "scripts": {
